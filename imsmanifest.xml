@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Payment_Clearing" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Payment Clearing and Settlement</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Payment_Clearing_and_Settlement_ORG">
+    <organization identifier="Payment_Clearing_and_Settlement_ORG">
+      <title>Payment Clearing and Settlement</title>
+      <item identifier="Payment_Clearing_and_Settlement_SCO" isvisible="true" identifierref="_Payment_Clearing_RES">
+        <title>Payment Clearing and Settlement</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_Payment_Clearing_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5hZnzWwc8mD.png" />
+      <file href="mobile/5nXBmH7882L.png" />
+      <file href="mobile/6qmmRvLI3F3_P_0_0_430_539.png" />
+      <file href="mobile/6cBSqu8GnkF.png" />
+      <file href="mobile/6HsTRh3z54k.png" />
+      <file href="mobile/6AHtsqy8KDe.png" />
+      <file href="mobile/6XqOxeGmmWs.png" />
+      <file href="mobile/6ItAVCgC8zu.png" />
+      <file href="mobile/6S6oSKGZnOh.png" />
+      <file href="mobile/6ZurByV1WSC.png" />
+      <file href="mobile/6XvBG9jyd8s.png" />
+      <file href="mobile/6MfJclpD4qW.png" />
+      <file href="mobile/6fglMyPco1n.png" />
+      <file href="mobile/63FdWQYHa2r.png" />
+      <file href="mobile/6qVy1IqbE8n.png" />
+      <file href="mobile/6eh65RLecYk.png" />
+      <file href="mobile/6J4PyKEeybf.png" />
+      <file href="mobile/5WWydfoUncQ.png" />
+      <file href="mobile/6PS6gCsRS5w_X_P_4_0_495_43.png" />
+      <file href="mobile/6PS6gCsRS5w_P_4_0_495_43.png" />
+      <file href="mobile/65cBqLrVlVT.png" />
+      <file href="mobile/6Y8qNS0x5z7.png" />
+      <file href="mobile/5YsH2gNWrcT.png" />
+      <file href="mobile/5a82uBw7jWM.png" />
+      <file href="mobile/5Vh4a0nfpVc_P_0_0_450_539.png" />
+      <file href="mobile/5fKgfJs9ev9.png" />
+      <file href="mobile/5sGATJFbLjL.png" />
+      <file href="mobile/68UFP0xsaqe.png" />
+      <file href="mobile/5l7ogAJqPlv.png" />
+      <file href="mobile/6qXbINIXstW.png" />
+      <file href="mobile/5X59FgtDvom.png" />
+      <file href="mobile/6rfrTJcwFq2.png" />
+      <file href="mobile/6KTVUKQHNov_P_0_0_1280_1024.png" />
+      <file href="mobile/5iHhOogKhpx_RA0C8FF.png" />
+      <file href="mobile/66baiNaEEG0_RA0C8FF.png" />
+      <file href="mobile/69Nz2fikqlS_RA0C8FF.png" />
+      <file href="mobile/5ocuo7UBX7T.png" />
+      <file href="mobile/5VMQkd1nKSf.png" />
+      <file href="mobile/5hZKngtYQyI.png" />
+      <file href="mobile/6hxfNCe3EdB.png" />
+      <file href="mobile/5kfICdcBlSx.png" />
+      <file href="mobile/60CZNpx6Fgi.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6ZppyhiDv6O.png" />
+      <file href="mobile/Shape5cGhCFuBbqZ.png" />
+      <file href="mobile/Shape6n00RjAbg8J.png" />
+      <file href="mobile/Shape6clNKTQtMIU.png" />
+      <file href="mobile/Shape5pfUT8ye1gD.png" />
+      <file href="mobile/Shape6U8GGawEB59.png" />
+      <file href="mobile/Shape6GVdRHowUgD.png" />
+      <file href="mobile/Shape5uKpOPMxj3P.png" />
+      <file href="mobile/Shape6d6tc5VWlDm.png" />
+      <file href="mobile/Shape5aqDb8bJBKh.png" />
+      <file href="mobile/Shape5nQwx4Y57iE.png" />
+      <file href="mobile/Shape66CYVFV82Zs.png" />
+      <file href="mobile/Shape5ds587KshXd.png" />
+      <file href="mobile/Shape5phpq7lz0e7.png" />
+      <file href="mobile/Shape5jnxybFF83W.png" />
+      <file href="mobile/Shape5bFQ8ZH82YP.png" />
+      <file href="mobile/Shape6Qscoqxcz5S.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dFtKp4lnxJ.js" />
+      <file href="html5/data/js/5ioNNSXzRgV.js" />
+      <file href="html5/data/js/5xjMTkHZ4mQ.js" />
+      <file href="html5/data/js/5xMXSODWa9A.js" />
+      <file href="html5/data/js/5Ynp8ioLo8T.js" />
+      <file href="html5/data/js/63ubw1X43X2.js" />
+      <file href="html5/data/js/664hM7R4wGz.js" />
+      <file href="html5/data/js/6BoSksSy0Xd.js" />
+      <file href="html5/data/js/6CskqOKyEpc.js" />
+      <file href="html5/data/js/6DKWXkds2Wc.js" />
+      <file href="html5/data/js/6du15HnQafo.js" />
+      <file href="html5/data/js/6Hyvchk6tZM.js" />
+      <file href="html5/data/js/6owWbMjl50f.js" />
+      <file href="html5/data/js/6YXu1Cpry6t.js" />
+      <file href="html5/data/js/6Z6LRC6pxDv.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
